@@ -40,6 +40,12 @@ Este es un juego de tiro al blanco simple creado en Python utilizando la bibliot
 
 - Este juego es un proyecto simple y puede ser mejorado y modificado según tus necesidades y preferencias.
 
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
+
 ¡Diviértete jugando al tiro al blanco!
 ```
 
